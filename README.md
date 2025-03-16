@@ -1,6 +1,6 @@
 # NearbySearch MCP Server
 
-A MCP server that finds nearby places using Google Places API with automatic IP-based location detection.
+An MCP server for nearby place searches with IP-based location detection.
 
 ![GitHub License](https://img.shields.io/github/license/kukapay/nearby-search-mcp) 
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/kukapay/nearby-search-mcp) 
