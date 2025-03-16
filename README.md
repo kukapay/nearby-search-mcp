@@ -22,8 +22,7 @@ A MCP server that finds nearby places using Google Places API with automatic IP-
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/nearbysearch-mcp.git
-cd nearbysearch-mcp
+git clone https://github.com/kukapay/nearby-search-mcp.git
 ```
 
 2. Install dependencies:
