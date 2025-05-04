@@ -5,6 +5,7 @@ An MCP server for nearby place searches with IP-based location detection.
 ![GitHub License](https://img.shields.io/github/license/kukapay/nearby-search-mcp) 
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/kukapay/nearby-search-mcp) 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
+[![smithery badge](https://smithery.ai/badge/@kukapay/nearby-search-mcp)](https://smithery.ai/server/@kukapay/nearby-search-mcp)
 
 ## Features
 
@@ -20,6 +21,15 @@ An MCP server for nearby place searches with IP-based location detection.
 
 ## Installation
 
+### Installing via Smithery
+
+To install NearbySearch for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@kukapay/nearby-search-mcp):
+
+```bash
+npx -y @smithery/cli install @kukapay/nearby-search-mcp --client claude
+```
+
+### Manual Installation
 1. Clone the repository:
 ```bash
 git clone https://github.com/kukapay/nearby-search-mcp.git
