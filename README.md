@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-nearby-search-mcp-badge.png)](https://mseep.ai/app/kukapay-nearby-search-mcp)
+
 # NearbySearch MCP Server
 
 An MCP server for nearby place searches with IP-based location detection.
